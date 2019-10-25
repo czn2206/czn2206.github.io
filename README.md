@@ -1,2 +1,2 @@
-# czn2206.github.io
-My new angular app
+# bluprint_assess
+Bluprint Solutions Front End Assessment
